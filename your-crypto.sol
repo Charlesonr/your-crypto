@@ -47,7 +47,7 @@ contract SimpleToken {
         require(amount <= balances[msg.sender], "Insufficient balance.");
 
 
-        // Adjusts token balances of the two addresses
+        // Adjusts token balances of the two addresses.
 
         balances[msg.sender] -= amount;
 
