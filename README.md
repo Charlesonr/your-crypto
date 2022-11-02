@@ -1,2 +1,2 @@
 # Your Crypto
-Creating your own crypto in solidity
+Creating your own crypto in solidity - by CH
